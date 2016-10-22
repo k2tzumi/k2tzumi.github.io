@@ -1,0 +1,3 @@
+[submodule "check-mapin"]
+	path = check-mapin
+	url = https://github.com/k2tzumi/check-mapin.git
